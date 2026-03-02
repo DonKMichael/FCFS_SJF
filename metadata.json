@@ -1,0 +1,5 @@
+{
+  "name": "CPU Scheduler Simulator",
+  "description": "A professional tool to simulate and visualize CPU scheduling algorithms like FCFS and SJF with dynamic Gantt charts and performance metrics.",
+  "requestFramePermissions": []
+}
